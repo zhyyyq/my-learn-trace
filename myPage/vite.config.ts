@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     outDir: '../docs',
   },
-  base: '/docs'
+  base: '/my-learn-trace'
 })
